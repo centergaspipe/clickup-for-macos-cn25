@@ -1,4 +1,4 @@
-
+Get the ultimate ClickUp for macOS plugin with instant Plugin for ClickUp for macOS - markdown support and quick search. Featuring markdown support and quick search, it's the best
 
 
 
